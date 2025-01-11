@@ -1,4 +1,4 @@
-// 1. Write a program to print the following Pattern
+// Write a program to print the following Pattern
 // 1
 // 2 3
 // 4 5 6
