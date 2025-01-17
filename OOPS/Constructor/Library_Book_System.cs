@@ -43,3 +43,19 @@ internal class Program
         b.Displayinfo();
     }
 }
+
+// Output:
+// Enter the Book Title
+//Harry Potter
+// Enter the Book Author
+// J.K. Rowling
+// Enter the Book ISBN
+// 1001
+// Enter the Book Price
+// 25
+// ------Library Management System----
+// Title:Harry Potter
+// Author: J.K. Rowling
+// ISBN:1001
+// Price:25
+
